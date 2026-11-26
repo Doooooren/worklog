@@ -1,2 +1,2 @@
-# worklog
-Personal freelance work tracking app
+# WorkLog v1
+Upload all files to the root of your GitHub Pages repository. Enable Pages from main / root. Open the HTTPS site, then Safari Share > Add to Home Screen. Open online once before using offline. Records use localStorage, not a server; export JSON backups regularly. GPS is requested only at check-in. Google Calendar sync and cloud backup are not implemented. Test with fictional jobs before relying on records. Payment amounts must use consistent gross/net and VAT treatment. This is a personal-use starter app, not an accounting system.
